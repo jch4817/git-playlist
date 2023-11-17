@@ -4,4 +4,5 @@
 
 ## 목록
 
-Lauv - [I met you when I was 18](I-met-you-when-I-was-18/README.md)
+- [Lauv - Steal the show](Steal-the-show/README.md)
+- [Lauv - I met you when I was 18](I-met-you-when-I-was-18/README.md)
